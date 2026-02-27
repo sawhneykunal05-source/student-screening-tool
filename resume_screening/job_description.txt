@@ -1,0 +1,13 @@
+Data Analyst Intern Role
+
+We are hiring a Data Analyst Intern who can work with structured and unstructured data.
+
+Required Skills:
+Python, Pandas, NumPy, SQL, Data Analysis, Machine Learning, Communication
+
+Responsibilities:
+- Clean and process data from multiple sources
+- Build reports and dashboards
+- Support model development and evaluation
+
+Candidates with 3+ years experience in analytics projects are preferred.

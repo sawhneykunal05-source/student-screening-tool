@@ -1,0 +1,9 @@
+candidate_name,email,skills,experience_years,education,resume_text
+Rahul Sharma,rahul.sharma@email.com,"python, pandas, numpy, sql, machine learning",3,Bachelor of Technology in Computer Science,"Built machine learning models using Python and NumPy. Developed data dashboards with Pandas and SQL."
+Ankit Verma,ankit.verma@email.com,"python, sql, excel, communication",2,Bachelor of Engineering,"Worked on student analytics project and automated reports with Python and SQL."
+Priya Singh,priya.singh@email.com,"java, python, pandas, data analysis, teamwork",4,Master of Computer Applications,"Performed data cleaning and exploratory data analysis with Pandas and Python."
+Neha Gupta,neha.gupta@email.com,"python, numpy, statistics, deep learning",5,Master of Science in Data Science,"Implemented neural network experiments and statistical modeling for academic projects."
+Aman Khan,aman.khan@email.com,"html, css, javascript, react",1,Bachelor of Computer Science,"Frontend intern focusing on responsive UI development and API integration."
+Sara Ali,sara.ali@email.com,"python, pandas, numpy, sql, problem solving",6,Bachelor of Information Technology,"Led a small analytics team and delivered predictive insights using Python stack."
+Vikram Rao,vikram.rao@email.com,"sql, power bi, python, pandas",3,Bachelor of Engineering,"Built ETL pipelines and reporting solutions for operations data."
+Kiran Patel,kiran.patel@email.com,,2,Bachelor of Technology,"Completed internship projects involving data cleaning and stakeholder reporting."
